@@ -8,3 +8,5 @@ function aufgabe1(inputString) {
     console.log(reversedString);
 }
 
+// Beispielaufruf
+aufgabe1("rückwärtsausgabe");
