@@ -9,4 +9,4 @@ function aufgabe1(inputString) {
 }
 
 // Beispielaufruf
-aufgabe1("Spiegelbild");
+aufgabe1("rückwärts");
